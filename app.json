@@ -1,1 +1,12 @@
-Create a sample.
+{SCALA:
+【app_version:10:END】
+【display_version:scala.19.03.17:END】
+【app_size:1GB:END】
+【app_log:
+ 这个更新发布于2019年03月17日
+ 1.适配新版船舱
+ 2.新增APP自动更新功能
+:END】
+【app_url:http://vbwcxy.oss-cn-qingdao.aliyuncs.com/zzht/zzht.apk:END】
+【force_up:FALSE:END】
+:END}
