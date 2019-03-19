@@ -1,4 +1,4 @@
-{SCALA:
+{%SCALA:
 【app_version:10:END】
 【display_version:scala.19.03.17:END】
 【app_size:1GB:END】
@@ -9,4 +9,4 @@
 :END】
 【app_url:http://vbwcxy.oss-cn-qingdao.aliyuncs.com/zzht/zzht.apk:END】
 【force_up:FALSE:END】
-:END}
+:END%}
