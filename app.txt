@@ -8,5 +8,5 @@
  2.新增APP自动更新功能
 :END】
 【app_url:http://vbwcxy.oss-cn-qingdao.aliyuncs.com/zzht/zzht.apk:END】
-【force_up:FALSE:END】
+【force_up:TRUE:END】
 :END%}
